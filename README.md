@@ -67,7 +67,7 @@ This can be intimidating, but have no fear, Git is smart when it comes to mergin
 1. Next, remove the merge conflict markers by deleting the following lines:
    ```
    <<<<<<< my-resume
-   =======
+   ---- #~creating conflicts~ -----
    >>>>>>> main
    ```
 1. With the merge conflict markers removed, click **Mark as resolved**.
