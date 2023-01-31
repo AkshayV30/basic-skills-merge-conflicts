@@ -1,1 +1,2 @@
-something is wrong
+<!-- something is wrong -->
+conflicts resolved
